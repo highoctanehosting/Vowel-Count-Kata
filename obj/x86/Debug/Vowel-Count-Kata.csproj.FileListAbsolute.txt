@@ -1,0 +1,8 @@
+C:\Users\jwalt\OneDrive\Development\Vowel-Count-Kata\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\jwalt\OneDrive\Development\Vowel-Count-Kata\obj\x86\Debug\ConsoleApplication.pdb
+C:\Users\jwalt\OneDrive\Development\Vowel-Count-Kata\obj\x86\Debug\Vowel-Count-Kata.csproj.AssemblyReference.cache
+C:\Users\jwalt\OneDrive\Development\Vowel-Count-Kata\obj\x86\Debug\Vowel-Count-Kata.csproj.SuggestedBindingRedirects.cache
+C:\Users\jwalt\OneDrive\Development\Vowel-Count-Kata\obj\x86\Debug\Vowel-Count-Kata.csproj.CoreCompileInputs.cache
+C:\Users\jwalt\OneDrive\Development\Vowel-Count-Kata\bin\Debug\ConsoleApplication.exe.config
+C:\Users\jwalt\OneDrive\Development\Vowel-Count-Kata\bin\Debug\ConsoleApplication.exe
+C:\Users\jwalt\OneDrive\Development\Vowel-Count-Kata\bin\Debug\ConsoleApplication.pdb
